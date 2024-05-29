@@ -1,4 +1,4 @@
-/* Barra de navegacion */
+
 
 .navbar {
   padding: 2rem;
@@ -10,7 +10,7 @@
   justify-content: space-between;  
 }
 
-/* Estilos generales */
+
 
 section {
   display: flex;
@@ -62,7 +62,7 @@ h1 {
   color: white;
 }
 
-/* Seccion Hero */
+
 
 .hero {
   background-color: #f5f6f7;
@@ -97,7 +97,6 @@ h1 {
   text-align: center;
 }
 
-/* Experiencia */
 
 .experiencia {
   padding: 40px 40px 60px 40px;
@@ -141,8 +140,6 @@ h1 {
 .badge {
   margin: 5px;
 }
-
-/* Proyectos */
 
 .proyectos-recientes {
   padding: 40px;
@@ -240,7 +237,7 @@ h1 {
 
 .testimonio-texto {
   max-width: 70%;
-  font-size: 20px;
+  font-size: 15px;
   text-align: center;
   font-family: "Cormorant", serif;
 }
